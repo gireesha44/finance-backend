@@ -54,8 +54,7 @@ finance-backend/
 
 1. Clone the repository
 ```bash
-git clone your-repo-link
-cd finance-backend
+git clone https://github.com/gireesha44/finance-backend
 ```
 
 2. Install dependencies
